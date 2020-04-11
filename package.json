@@ -6,6 +6,7 @@
   "scripts": {
     "start": "nodemon --exec babel-node src/index.js",
     "test": "jest",
+    "test:watch": "jest --watch",
     "format": "prettier \"src/**/*.{js,html}\" --write",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
   },
