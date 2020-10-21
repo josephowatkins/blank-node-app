@@ -14,14 +14,14 @@
   "author": "Joseph Watkins",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/node": "^7.8.7",
-    "@babel/preset-env": "^7.9.5",
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.10.1",
-    "eslint-plugin-jest": "^23.8.2",
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.14.0",
+    "eslint-plugin-jest": "^23.20.0",
     "jest": "^26.6.0",
-    "nodemon": "^2.0.3",
-    "prettier": "^2.0.4"
+    "nodemon": "^2.0.6",
+    "prettier": "^2.1.2"
   }
 }
